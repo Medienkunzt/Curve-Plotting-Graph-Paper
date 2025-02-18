@@ -2,15 +2,17 @@
 
 This project aims to recreate the **Kodak E 64 Curve Plotting Graph Paper** using `matplotlib` in Python. The project is currently a **work in progress** and will support multiple versions with different scales, including:
 
-- **EOG Exposure Scale**
+- **Log Exposure Scale (MILLILUX/s)**
 - **Zone System (1-10)**
 - **Step Wedge Table 21-1**
 
 ### Current Progress
-- A **template for transparent film material** is currently being developed.
+- A **template for transparent film material** is currently being developed in a Jupyter Notebook (Python)
 - Future versions will also include a version specifically tailored for **photographic paper**.
+- In addition, the goal is to generate the files automatically and make them available directly in github.
 
 ### Installation & Usage
+- Currently, you can only run the code on your own device in a Jupyter notebook.
 _(Instructions will be added as the project progresses.)_
 
 ### License
