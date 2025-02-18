@@ -11,6 +11,9 @@ This project aims to recreate an enhance the **Kodak E 64 Curve Plotting Graph P
 - Future versions will also include a version specifically tailored for **photographic paper**.
 - In addition, the goal is to generate the files automatically and make them available directly in github.
 
+#### Checkout the current results
+- [CurvePlottingGraphPaperV0](GraphPapers/CurvePlottingGraphPaperV0.pdf)
+
 ### Installation & Usage
 - Currently, you can only run the code on your own device in a Jupyter notebook.
 _(Instructions will be added as the project progresses.)_
