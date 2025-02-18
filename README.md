@@ -1,6 +1,6 @@
 # Curve Plotting Graph Paper Recreation
 
-This project aims to recreate the **Kodak E 64 Curve Plotting Graph Paper** using `matplotlib` in Python. The project is currently a **work in progress** and will support multiple versions with different scales, including:
+This project aims to recreate an enhance the **Kodak E 64 Curve Plotting Graph Paper** using `matplotlib` in Python. The project is currently a **work in progress** and will support multiple versions with different scales, including:
 
 - **Log Exposure Scale (MILLILUX/s)**
 - **Zone System (1-10)**
